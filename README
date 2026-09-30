@@ -1,0 +1,4 @@
+An Argonaut color theme built with `doom-themes'.
+
+It works with Doom Emacs and with a standard Emacs installation that has `doom-themes' installed.
+Load it with `(load-theme 'argonaut t)' or set `doom-theme' to `argonaut'.

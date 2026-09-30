@@ -1,5 +1,8 @@
 ;;; argonaut-theme.el --- Dark theme based on the Argonaut palette -*- lexical-binding: t; no-byte-compile: t; -*-
 ;;
+;; Author: sxl613
+;; Maintainer: sxl613
+;; URL: https://github.com/sxl613/argonaut-theme
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "27.1") (doom-themes "2.3.0"))
 ;; Keywords: faces
